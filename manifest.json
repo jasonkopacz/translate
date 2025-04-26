@@ -1,0 +1,10 @@
+{
+  "name": "Translate",
+  "description": "Translate a select amount of words on the page.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "translate.html",
+    "default_icon": "translate.png"
+  }
+}
