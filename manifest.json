@@ -5,7 +5,7 @@
   "description": "Translate selected words on a page.",
   "permissions": ["activeTab", "scripting", "storage"],
   "action": {
-    "default_popup": "dist/index.html",
+    "default_popup": "dist/popup.js",
     "default_icon": {
       "16": "src/images/translate.png",
       "48": "src/images/translate.png",
