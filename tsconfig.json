@@ -1,12 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "es6",
-      "es2017"
-    ],
+    "target": "es2015",
+    "lib": ["dom", "dom.iterable", "es6", "es2017"],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -26,7 +21,5 @@
     },
     "types": ["chrome"]
   },
-  "include": [
-    "src"
-  ]
+  "include": ["src"]
 }
